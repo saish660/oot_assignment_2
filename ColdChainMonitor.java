@@ -1,0 +1,3 @@
+interface ColdChainMonitor {
+    void monitorTemperature();
+}
